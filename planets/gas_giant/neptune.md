@@ -1,12 +1,13 @@
 ---
 layout: planet
 title: Neptune
-meta: Makemake is a dwarf planet and perhaps the largest Kuiper belt[e] object in the classical population,[a] with a diameter approximately two thirds that of Pluto.
+meta: Neptune is the eighth and farthest known planet from the Sun in the Solar System. 
 type: gas-giant
-discoverer: Michael E. Brown
-orbit: 309.09 yr
-radius: 739±17 km
-tilt: 	29.00685°
-image: Makemake.jpg 
-source: https://en.wikipedia.org/wiki/Makemake
+discoverer: Johann Galle
+orbit: 164.8 yr
+radius: 24,622±19 km
+tilt: 28.32°
+image: Neptune.jpg 
+source: https://en.wikipedia.org/wiki/Neptune
 ---
+Neptune is the eighth and farthest known planet from the Sun in the Solar System. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. Neptune is 17 times the mass of Earth and is slightly more massive than its near-twin Uranus, which is 15 times the mass of Earth and slightly larger than Neptune.
