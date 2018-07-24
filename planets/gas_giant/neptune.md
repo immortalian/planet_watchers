@@ -2,7 +2,7 @@
 layout: planet
 title: Neptune
 meta: Neptune is the eighth and farthest known planet from the Sun in the Solar System. 
-type: gas-giant
+type: gas_giant
 discoverer: Johann Galle
 orbit: 164.8 yr
 radius: 24,622±19 km
