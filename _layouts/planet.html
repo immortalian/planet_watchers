@@ -2,13 +2,13 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
-<img src="{{site.baseurl}}/img/{{planet.image}}" alt="Photo of {{planet.title}}">
+<img src="{{site.baseurl}}/img/{{page.image}}" alt="Photo of {{planet.title}}">
 
 <dl>
-    <dt>Discoverer:</dt><dd>{{page.Discoverer}}</dd>
+    <dt>Discoverer:</dt><dd>{{page.discoverer}}</dd>
     <dt>Orbital Period:</dt><dd>{{page.orbit}}</dd>
     <dt>Mean Radius:</dt><dd>{{page.radius}}</dd>
-    <dt>Axial Tilt:</dt><dd>{{page.Discoverer}}</dd>
+    <dt>Axial Tilt:</dt><dd>{{page.tilt}}</dd>
 </dl>
 
 {{content}}
