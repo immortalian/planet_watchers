@@ -11,10 +11,10 @@ priority: 1.0
 
     
     <ol>
-        {% for planet in site.data.planet-types %}
+        {% for pussy in site.data.planet-types %}
             <li>
-                <a href="{{site.baseurl}}/planets/{{planet.folder}}/"></a>
-                {{planet.content | markdownify }}
+                <a href="{{site.baseurl}}/planets/{{pussy.folder}}/">{{pussy.title}}</a>
+                {{pussy.content | markdownify }}
             </li>
         {% endfor %}
     </ol>
