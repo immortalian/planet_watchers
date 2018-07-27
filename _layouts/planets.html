@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<strong>Planets</strong>
+<nav>
+    <ul>
+        {% for pussy in site.data.planet-types %}
+            <li>
+                <a href="{{site.baseurl}}/planets/{{pussy.folder}}/" class="{% if page.url contains pussy.folder %}current{% endif %}">{{pussy.title}}</a>
+            </li>
+        {% endfor %}
+    </ul>
+  </nav>
+{{content}}
