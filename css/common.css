@@ -4,6 +4,15 @@ html {
 
     font: normal 100%/1.4 Georgia, serif;
 }
+.masthead {
+  padding: 1em;
+  background: #000531 url("../img/galaxy.jpg") no-repeat center center;
+  background-size: cover;
+  color: #fff;
+}
+.masthead-pussy {
+  background-image: url(../img/planets.jpg);
+}
 .current {
     background-color: #000531;
     color: #fff;
